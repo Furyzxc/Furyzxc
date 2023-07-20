@@ -22,6 +22,8 @@ I'm a passionate Frontend Developer with expertise in building robust web applic
 Here are some of my noteworthy projects:
 - [JobFinder](https://github.com/Furyzxc/JobFinder) - The powerful social network that helps people connect, communicate, and find job opportunities. Whether you're looking to expand your professional network, search for jobs, or collaborate with like-minded individuals, JobFinder is the platform to make it happen.
 
+- [AIConverse](https://github.com/Furyzxc/AIConverse) - This project is a recreation of ChatGPT, a conversational AI model, using the OpenAI API. ChatGPT is designed to generate human-like responses to user prompts, making it useful for a wide range of conversational applications.
+
 ### Let's Connect 🤝
   
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Furyzxc)
