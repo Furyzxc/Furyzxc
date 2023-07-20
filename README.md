@@ -28,7 +28,7 @@ Here are some of my noteworthy projects:
   
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Furyzxc)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-ananyev-267086195/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00A98F?style=for-the-badge&logoColor=white)](https://www.yourportfolio.com)
+[![Portfolio](https://sergey-ananyev.netlify.app)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logoColor=white)](mailto:sergejananev48@gmail.com)
 
 
