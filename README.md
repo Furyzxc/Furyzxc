@@ -24,6 +24,9 @@ Here are some of my noteworthy projects:
 
 - [AIConverse](https://github.com/Furyzxc/AIConverse) - This project is a recreation of ChatGPT, a conversational AI model, using the OpenAI API. ChatGPT is designed to generate human-like responses to user prompts, making it useful for a wide range of conversational applications.
 
+- [WorldWideWords](https://github.com/Furyzxc/WorldWideWords) - Web application that allows users to translate text between different languages. 
+
+
 ### Let's Connect 🤝
   
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Furyzxc)
