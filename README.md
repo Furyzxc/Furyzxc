@@ -1,39 +1,30 @@
-## Hi there 👋, I'm Furyzxc!
+<div align="center">
+  Hi there 👋, I'm Furyzxc, React Frontend Developer!
+</div>
 
-### About Me 🚀
-I'm a passionate Frontend Developer with expertise in building robust web applications using the power of **React** ⚛️, managing state with **Redux** 🔄, and ensuring type safety with **TypeScript** 🧰. With a background in computer science and a love for problem-solving, I thrive on turning ideas into stunning and interactive user experiences.
+<br/>
 
-### Tech Stack 💻
-- [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
-- [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)](https://redux.js.org/)
-- [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-- [![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)](https://material-ui.com/)
-- [![REST API](https://img.shields.io/badge/-REST%20API-336791?style=flat&logo=api&logoColor=white)](https://en.wikipedia.org/wiki/Representational_state_transfer)
-- [![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)](https://styled-components.com/)
-- [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-- [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
-- [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=furyzxc&show_icons=true&theme=dark&include_all_commits=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furyzxc&layout=compact&langs_count=4&theme=dark"/>
+</div>
 
-### Projects 🚀
-Here are some of my noteworthy projects:
-- [JobFinder](https://github.com/Furyzxc/JobFinder) - The powerful social network that helps people connect, communicate, and find job opportunities. Whether you're looking to expand your professional network, search for jobs, or collaborate with like-minded individuals, JobFinder is the platform to make it happen.
+<br/>
 
-- [AIConverse](https://github.com/Furyzxc/AIConverse) - This project is a recreation of ChatGPT, a conversational AI model, using the OpenAI API. ChatGPT is designed to generate human-like responses to user prompts, making it useful for a wide range of conversational applications.
+[![React](https://img.shields.io/badge/-React-242526?style=flat&logo=react&logoColor=149ECA)](https://react.dev/)
+[![Redux](https://img.shields.io/badge/-Redux-242526?style=flat&logo=redux&logoColor=764ABC)](https://redux-toolkit.js.org/)
+![TypeScript](https://img.shields.io/badge/-TypeScript-242526?style=flat&logo=typescript&logoColor=377CC8&label)
+![JavaScript](https://img.shields.io/badge/-JavaScript-242526?style=flat&logo=javascript&logoColor=F7E025)
+[![Material-UI](https://img.shields.io/badge/-Material--UI-242526?style=flat&logo=mui&logoColor=007FFF)](https://mui.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-242526?style=flat&logo=github&logoColor=white)](https://github.com/)
+![REST API](https://img.shields.io/badge/-REST%20API-336791?style=flat&logo=southwestairlines&logoColor=white)
+[![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)](https://styled-components.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat&logo=bootstrap&logoColor=7818F7)](https://getbootstrap.com/)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
 
-- [WorldWideWords](https://github.com/Furyzxc/WorldWideWords) - Web application that allows users to translate text between different languages. 
-
-
-### Let's Connect 🤝
-  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Furyzxc)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-ananyev-267086195/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00A98F?style=for-the-badge&logoColor=white)](https://sergey-ananyev.netlify.app/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logoColor=white)](mailto:sergejananev48@gmail.com)
-
-
-### I'm Open to Collaborate! 🌟
-I'm always open to exciting opportunities and collaboration on projects. Feel free to reach out if you'd like to work together or just chat about all things tech!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-E7E7E7?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sergey-ananyev-267086195/)
+[![Telegram](https://img.shields.io/badge/-Telegram-E7E7E7?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/furybd)
+[![Gmail](https://img.shields.io/badge/-Gmail-E7E7E7?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sergejananev48@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-E7E7E7?style=for-the-badge&logo=dev.to&logoColor=242526)](https://sergey-ananyev.netlify.app/)
