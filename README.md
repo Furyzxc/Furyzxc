@@ -1,5 +1,5 @@
 <div align="center">
-  Hi there 👋, I'm Furyzxc, React Frontend Developer!
+  Furyzxc, React Frontend Developer
 </div>
 
 <br/>
