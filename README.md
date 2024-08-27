@@ -27,4 +27,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-E7E7E7?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sergey-ananyev-267086195/)
 [![Telegram](https://img.shields.io/badge/-Telegram-E7E7E7?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/furybd)
 [![Gmail](https://img.shields.io/badge/-Gmail-E7E7E7?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sergejananev48@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-E7E7E7?style=for-the-badge&logo=dev.to&logoColor=242526)](https://sergey-ananyev.netlify.app/)
