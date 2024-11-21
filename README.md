@@ -24,6 +24,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-E7E7E7?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sergey-ananyev-267086195/)
+/*[![LinkedIn](https://img.shields.io/badge/-LinkedIn-E7E7E7?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sergey-ananyev-267086195/)*/
 [![Telegram](https://img.shields.io/badge/-Telegram-E7E7E7?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/furybd)
 [![Gmail](https://img.shields.io/badge/-Gmail-E7E7E7?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sergejananev48@gmail.com)
