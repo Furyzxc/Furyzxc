@@ -4,11 +4,7 @@ Frontend Developer & Computer Science student at Dublin City University (First C
 
 I build responsive, component-driven interfaces with React, TypeScript, and Redux Toolkit — with backend experience in Django, MySQL, and C.
 
-**Currently:**
-- 🎓 3rd-year CS student @ DCU
-- 🔭 Building [current project]
-- 🌱 Learning [whatever you're currently picking up]
-- 💬 Open to frontend developer internship and graduate opportunities
+💬 Open to frontend developer internship and graduate opportunities
 
 **Find me:**
 - 🌐 Portfolio: [serhii-ananiev.netlify.app](https://serhii-ananiev.netlify.app)
