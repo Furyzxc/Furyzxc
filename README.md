@@ -17,9 +17,9 @@ I taught myself front-end development and build React/Redux apps. I also led a 5
 
 ## 📌 Projects
 
-- **[AIConverse](https://github.com/Furyzxc/AIConverse)**: React/Redux chat interface using the OpenAI API ([demo](https://YOUR-AICONVERSE-LINK))
-- **[Social Network App](https://github.com/Furyzxc/JobFinder)**: self-taught React app with 50+ components and Redux Toolkit ([demo](https://YOUR-SOCIAL-NETWORK-LINK))
-- **[Cultural Web Platform](https://github.com/Furyzxc/web-design-project)**: led a 5-person team, deployed on Netlify ([site](https://YOUR-CULTURAL-WEB-LINK))
+- **[AIConverse](https://github.com/Furyzxc/AIConverse)**: React/Redux chat interface using the OpenAI API ([demo](https://aiconverse.netlify.app/))
+- **[Social Network App](https://github.com/Furyzxc/JobFinder)**: self-taught React app with 50+ components and Redux Toolkit ([demo](https://jobfinder-social-network.netlify.app/login))
+- **[Cultural Web Platform](https://github.com/Furyzxc/web-design-project)**: led a 5-person team, deployed on Netlify ([site](https://cultural-highlights.netlify.app/))
 
 ## 📫 Contact
 
